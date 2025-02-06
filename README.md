@@ -1,6 +1,4 @@
-# LunarLanderControl
-
-Landing a Lunar Lander: A Challenge of Control and Precision
+# Landing a Lunar Lander: A Challenge of Control and Precision
 
 Imagine a spacecraft, hurtling towards the lunar surface. Its mission: to touch down safely on the designated landing pad. This seemingly simple task becomes a complex dance of
 control and precision when faced with the realities of space.
